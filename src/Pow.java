@@ -2,7 +2,7 @@
 public class Pow {
 	public static void main(String[] args) {
 		
-		System.out.prinln(pow(2, 4)); //Should output 16
+		System.out.println(pow(2, 4)); //Should output 16
 
 	}
 	
